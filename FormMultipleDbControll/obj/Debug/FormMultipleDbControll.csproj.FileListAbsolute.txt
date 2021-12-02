@@ -1,0 +1,13 @@
+C:\Users\ismai\source\repos\FormMultipleDbControll\bin\Debug\FormMultipleDbControll.exe.config
+C:\Users\ismai\source\repos\FormMultipleDbControll\bin\Debug\FormMultipleDbControll.exe
+C:\Users\ismai\source\repos\FormMultipleDbControll\bin\Debug\FormMultipleDbControll.pdb
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.csproj.AssemblyReference.cache
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.Form1.resources
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.Page1.resources
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.Page2.resources
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.Properties.Resources.resources
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.csproj.GenerateResource.cache
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.exe
+C:\Users\ismai\source\repos\FormMultipleDbControll\obj\Debug\FormMultipleDbControll.pdb
